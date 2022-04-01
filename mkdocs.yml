@@ -1,0 +1,9 @@
+site_name: My Docs
+theme: readthedocs
+nav:
+    - Linux commands:
+       - Sed.md
+       - Uniq.md
+    - Markdown help:
+       - Markdown_help.md
+    - Jupyter: Jupyter.md
